@@ -21,3 +21,7 @@ int main() {
     return 0;
 }
 ```
+Console output:
+```
+colour = 7
+```

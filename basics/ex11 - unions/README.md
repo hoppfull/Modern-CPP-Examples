@@ -39,3 +39,13 @@ int main() {
     return 0;
 }
 ```
+Console output:
+```
+u.x = 65541
+u.y = 5
+u.x = 3
+u.y = 3
+u2.x = 131077
+u2.a = 5
+u2.b = 2
+```

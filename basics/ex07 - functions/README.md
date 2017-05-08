@@ -25,3 +25,8 @@ int g(int x) {
     return x + 1;
 }
 ```
+Console output:
+```
+f(10) = 20
+g(8) = 9
+```

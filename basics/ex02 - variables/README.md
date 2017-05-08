@@ -33,3 +33,11 @@ int main() {
     return 0;
 }
 ```
+Console output:
+```
+x = 5
+cs = "hello"
+s = "yo"
+f = 3.140000
+4 + 7 = 11
+```

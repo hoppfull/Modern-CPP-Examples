@@ -28,3 +28,8 @@ int main() {
     return 0;
 }
 ```
+Console output:
+```
+x is neither less than or greater than 3...
+x equals 3!
+```

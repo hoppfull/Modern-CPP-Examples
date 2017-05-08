@@ -22,3 +22,8 @@ int main() {
     return 0;
 }
 ```
+Console output:
+```console
+x = 14.200000
+y = 84
+```

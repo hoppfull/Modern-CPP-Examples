@@ -25,3 +25,7 @@ int main() {
     return 0;
 }
 ```
+Console output:
+```
+a = 6
+```

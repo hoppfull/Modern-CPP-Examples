@@ -23,3 +23,8 @@ int main() {
 */
 
 ```
+Console output:
+```
+Hello, world!
+Hello, world!
+```

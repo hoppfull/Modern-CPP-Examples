@@ -41,3 +41,16 @@ int main() {
     return 0;
 }
 ```
+Console output:
+```
+xs[4] = 8
+xs[0] = 9
+xs[1] = 9
+xs[2] = 0
+xs[3] = 3
+xs[4] = 8
+xs[5] = 2
+xs[6] = 5
+xs[7] = 3
+xs[8] = 4
+```

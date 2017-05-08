@@ -47,3 +47,16 @@ int main() {
     return 0;
 }
 ```
+Console output:
+```
+p0.x = -1
+p0.y = 6
+p1.x = 7
+p1.y = 0
+world.center.x = 5
+world.center.y = 6
+world.radius = 3.140000
+dsc.center.x = 10
+dsc.center.y = 12
+dsc.radius = 7.280000
+```
