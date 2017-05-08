@@ -1,11 +1,16 @@
 #include <iostream>
 
+// 'main' is application starting point:
 int main() {
-    // single line comment
+    // formating print statement:
     std::printf("%s\n", "Hello, world!");
+    // stream-based console output:
     std::cout << "Hello, world!" << std::endl;
-    return 0;
+
+    return 0; // Program return code
 }
+
+// single line comment
 
 /*
     multi
